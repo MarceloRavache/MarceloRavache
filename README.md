@@ -1,7 +1,7 @@
 ### Hi, my name is João Marcelo, I'm Developer FullStack with NodeJS, Spring and ReactJS👋
 
-- 🔭 I’m currently working on NodeJS, TypeORM, ReactJS, NextJS, Material UI, Chakra UI
-- 🌱 I’m currently learning Elixir and Chakra UI
+- 🔭 I’m currently working on NodeJS, TypeORM, Knex, ReactJS, NextJS, Material UI, Chakra UI.
+- 🌱 I’m currently learning Create React Library and creating projects.
 
  <div>
   <a href="https://github.com/MarceloRavache">
