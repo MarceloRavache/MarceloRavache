@@ -28,4 +28,5 @@
  
   ![Snake animation](https://github.com/MarceloRavache/MarceloRavache/blob/output/github-contribution-grid-snake.svg)
  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=MarceloRavache&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
